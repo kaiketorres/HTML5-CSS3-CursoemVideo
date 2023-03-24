@@ -1,0 +1,19 @@
+@charset "UT-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #949494;
+    padding: 10px;
+
+}
+
+header h1{
+    text-align: center;
+}
+
+
